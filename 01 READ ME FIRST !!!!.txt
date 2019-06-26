@@ -8,7 +8,7 @@ Password: admin
 Username: bruno
 Password: pass
 
-**Developed By Rushabh Narekar**
+**Developed By Rushabh Narekar.**
 
 START XAMPP, 
 GO TO localhost/phpmyadmin TO CREATE A DATABASE NAMING "dbstudentindividualinventory" AND IMPORT THE SQL FILE TO RUN.
